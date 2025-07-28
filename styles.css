@@ -14,6 +14,7 @@ button {
     left: 600px;
     font-size: 20px;
     text-align: center;
+    transition: all 1s;
 }
 
 button:hover {
